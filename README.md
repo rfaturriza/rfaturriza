@@ -5,17 +5,18 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development and Cloud Computing
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying at Universitas Syiah Kuala (Electrical Engineering).
-- 💼 &nbsp; Junior Software Engineer.
+- 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
+- 💼 &nbsp; Mobile Engineer at majoo Indonesia.
 - 🌱 &nbsp; Enthusiast in Web, Mobile, and Cloud Computing .
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart  
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | PHP | Bootstrap 
+- 🌐 &nbsp; Flutter | Laravel | ReactJS | Bootstrap | Tailwind
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code| Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
+- 🤔 &nbsp; Linux SysAdmin | Virtualization | Docker
 
 </br>
 
