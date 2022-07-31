@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development and Cloud Computing
+- 🔭 &nbsp; I’m currently learning Android Native and iOS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
 - 💼 &nbsp; Mobile Engineer at majoo Indonesia.
@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart  
+- 💻 &nbsp; Python | Dart | PHP | Java | Kotlin | Swift | Javascript
 - 🌐 &nbsp; Flutter | Laravel | ReactJS | Bootstrap | Tailwind
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code| Git
