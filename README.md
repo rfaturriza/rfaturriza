@@ -6,16 +6,16 @@
 - 🔭 &nbsp; I’m currently learning Android Native and iOS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
-- 💼 &nbsp; Mobile Engineer at majoo Indonesia.
-- 🌱 &nbsp; Enthusiast in Web, Mobile, and Cloud Computing .
+- 💼 &nbsp; Mobile Developer at PT Code Development Indonesia.
+- 🌱 &nbsp; Enthusiast in Mobile, Web app and Cloud Computing .
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | PHP | Java | Kotlin | Swift | Javascript
-- 🌐 &nbsp; Flutter | Laravel | ReactJS | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code| Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
+- 🌐 &nbsp; Flutter | Laravel | ReactJS | Bootstrap | Tailwind | Android Kotlin
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Visual Studio code| Android Studio | IntelliJ
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 - 🤔 &nbsp; Linux SysAdmin | Virtualization | Docker
 
 </br>
