@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Android Native and iOS
+- 🔭 &nbsp; I’m trying to be best in Mobile Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
 - 💼 &nbsp; Mobile Developer at PT Code Development Indonesia.
@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | PHP | Java | Kotlin | Swift | Javascript
-- 🌐 &nbsp; Flutter | Laravel | ReactJS | Bootstrap | Tailwind | Android Kotlin
+- 💻 &nbsp;  Dart | Kotlin | PHP | Java | Swift | Javascript | Python
+- 🌐 &nbsp; Flutter | Android Native Kotlin | Jetpack Compose | Laravel | ReactJS | Bootstrap | Tailwind
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Visual Studio code| Android Studio | IntelliJ
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
