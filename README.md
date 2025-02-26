@@ -6,14 +6,14 @@
 - 🔭 &nbsp; I’m trying to be best in Mobile Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
-- 💼 &nbsp; Mobile Developer at PT Code Development Indonesia.
+- 💼 &nbsp; Open to Work.
 - 🌱 &nbsp; Enthusiast in Mobile, Web app and Cloud Computing .
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Dart | Kotlin | PHP | Java | Swift | Javascript | Python
-- 🌐 &nbsp; Flutter | Android Native Kotlin | Jetpack Compose | Laravel | ReactJS | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Firebase
+- 💻 &nbsp;  Dart | Kotlin | Golang | PHP | Java | Swift | Javascript | Python
+- 🌐 &nbsp; Flutter | Android SDK | Jetpack Compose | Laravel | NextJs/ReactJs | NuxtJs/Vue.js | Bootstrap | Tailwind
+- 🛢 &nbsp; MySQL | Postgres | Firebase | Supabase
 - 🔧 &nbsp; Visual Studio code| Android Studio | IntelliJ
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 - 🤔 &nbsp; Linux SysAdmin | Virtualization | Docker
