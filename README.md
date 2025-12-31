@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m trying to be best in Mobile Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m trying to be best in Software Development
+- 🤔 &nbsp; Happy to explore new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Universitas Syiah Kuala (Electrical Engineering).
-- 💼 &nbsp; Open to Work.
-- 🌱 &nbsp; Enthusiast in Mobile, Web app and Cloud Computing .
+- 💼 &nbsp; Open for Permanent Position.
+- 🌱 &nbsp; Enthusiast in Mobile, Web, Cloud Computing, AI.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Dart | Kotlin | Golang | PHP | Java | Swift | Javascript | Python
+- 💻 &nbsp;  Dart | Kotlin | Golang | PHP | Java | Swift | Javascript | Typescript | Python
 - 🌐 &nbsp; Flutter | Android SDK | Jetpack Compose | Laravel | NextJs/ReactJs | NuxtJs/Vue.js | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Postgres | Firebase | Supabase
+- 🛢 &nbsp; MySQL | MariaDB | Postgres | Firebase | Supabase
 - 🔧 &nbsp; Visual Studio code| Android Studio | IntelliJ
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 - 🤔 &nbsp; Linux SysAdmin | Virtualization | Docker
